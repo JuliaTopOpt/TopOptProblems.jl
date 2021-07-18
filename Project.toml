@@ -1,0 +1,16 @@
+name = "TopOptProblems"
+uuid = "bca17c57-c244-4025-9a8f-f0b468a7321b"
+authors = ["RohitRathore1 <rohitrathore.imh55@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Ferrite = "c061ca5d-56c9-439f-9c0e-210fe06d3992"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+IterativeSolvers = "42fd0dbc-a981-5370-80f2-aaf504508153"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+Setfield = "efcf1570-3423-57d1-acb7-fd33fddbac46"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+TopOpt = "53a1e1a5-51bb-58a9-8a02-02056cc81109"
+VTKDataTypes = "10d27dd1-1d0f-5a4c-b178-bd2d0045a217"
