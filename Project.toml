@@ -1,0 +1,13 @@
+name = "TopOptProblems"
+uuid = "27704a7e-a4df-40bc-951d-d074625df1c8"
+authors = ["RohitRathore1 <rohitrathore.imh55@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
