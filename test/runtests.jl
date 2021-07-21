@@ -1,6 +1,6 @@
-using TopOptProblems
-using Test
+using Test, SafeTestsets
 
-@testset "TopOptProblems.jl" begin
-    # Write your tests here.
+@safetestset "TopOptProblems.jl" begin
+    include("problems.jl")
+    include("metadata.jl")
 end

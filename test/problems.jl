@@ -1,8 +1,8 @@
-using TopOpt.TopOptProblems
+using TopOptProblems
 using Test
 
 using Ferrite
-using TopOpt.TopOptProblems: boundingbox
+using TopOptProblems: boundingbox
 
 E = 1.0
 ν = 0.3
