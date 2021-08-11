@@ -1,5 +1,7 @@
 module TopOptProblems
 
+const PENALTY_BEFORE_INTERPOLATION = true
+
 using Ferrite, StaticArrays, LinearAlgebra
 using SparseArrays, Setfield, Requires
 import Distributions
